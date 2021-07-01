@@ -117,7 +117,6 @@ header, .navbar{
 #about-list i{
     color:#65daf9;
     margin-right: 15px;
-<<<<<<< HEAD
 }
 
 /*Serviços*/
@@ -140,6 +139,19 @@ header, .navbar{
 }
 .service-box:hover>i, .service-box:hover>h4{
     color:#65daf9;
-=======
->>>>>>> 0671d6e6a151728f8a8d776fcd53b22ce53fe36c
+}
+/*Dados*/
+
+.circle-box div{
+    padding:0;
+}
+.progressbar-text{
+    font-weight: bold;
+    font-size: 32px;
+}
+#data-area p{
+    color: white;
+    text-align: center;
+    font-size: 26px;
+    margin-top: 20px;
 }
