@@ -117,6 +117,7 @@ header, .navbar{
 #about-list i{
     color:#65daf9;
     margin-right: 15px;
+<<<<<<< HEAD
 }
 
 /*Serviços*/
@@ -139,4 +140,6 @@ header, .navbar{
 }
 .service-box:hover>i, .service-box:hover>h4{
     color:#65daf9;
+=======
+>>>>>>> 0671d6e6a151728f8a8d776fcd53b22ce53fe36c
 }
