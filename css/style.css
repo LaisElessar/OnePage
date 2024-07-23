@@ -34,6 +34,7 @@ header, .navbar{
     color: white;
 }
 #navbar-links a{
+    cursor: pointer;
     color: white;
 }
 .navbar-expand-lg .navbar-nav .nav-link{
