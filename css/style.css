@@ -175,7 +175,7 @@ header, .navbar{
     padding: 70px 50px;
 }
 #company-img{
-    background-image: url('../img/empresa.jpg');
+    background-image: url('../img/empresa.webp');
     background-size:cover;
     height: 100%;
 }
@@ -321,8 +321,7 @@ header, .navbar{
     color: #444;
     border: solid 1px #444;
     border-radius: 50%;
-    width: 55px;
-    height: 55px;
+    padding: 10px;
     line-height: 55px;
     font-size: 24px;
     margin-bottom: 20px;

@@ -100,8 +100,8 @@ $( document ).ready(function() {
   });
   //parallax
   setTimeout(function() {
-    $('#data-area').parallax({imageSrc: 'img/cidadeparallax.png'});
-    $('#apply-area').parallax({imageSrc: 'img/pattern.png'});
+    $('#data-area').parallax({imageSrc: 'img/cidadeparallax.webp'});
+    $('#apply-area').parallax({imageSrc: 'img/pattern.webp'});
   }, 200);
 
 
